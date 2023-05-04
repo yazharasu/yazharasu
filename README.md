@@ -1,4 +1,4 @@
-- 👋 Hi, I'm Yazharasu, a creative problem-solver with a diverse background in product design, teaching, and front-end web development.
+👋 Hi, I'm Yazharasu, a creative problem-solver with a diverse background in product design, teaching, and front-end web development.
 
 With 2 years of experience in product design and development and 5 years in teaching, I've honed my ability to think critically, communicate effectively, and collaborate with others to bring ideas to life. And in the past year, I've been leveraging my skills in HTML, CSS, TailwindCSS, Bootstrap, JavaScript, TypeScript, and React to build dynamic and user-friendly web applications.
 
